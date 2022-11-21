@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-	body style {background-color:cadetblue;}
+body style {background-color:#975F60;}
 
 	h1 style {color:white;}
 
@@ -15,7 +15,7 @@
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color: paleturquoise;
+	background-color:#CE8687;
 }
 .flex-container > div {
     background-color:#B57879;
@@ -46,10 +46,8 @@
 #container {
     width: 90%;
     margin: 0 auto;
-    background-color:cadetblue;
+    background-color:#975F60;}
 }
-	
 .flex-responsive {
     flex: 100%;
-}
 }
