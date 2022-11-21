@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body style {background-color:#975F60;}
+body style {background-color:#9A5B5C;}
 
 	h1 style {color:white;}
 
@@ -15,10 +15,10 @@ body style {background-color:#975F60;}
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-	background-color:#CE8687;
+	background-color:#A86465;
 }
 .flex-container > div {
-    background-color:#B57879;
+    background-color:#CC797C;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
@@ -46,7 +46,7 @@ body style {background-color:#975F60;}
 #container {
     width: 90%;
     margin: 0 auto;
-    background-color:#975F60;}
+    background-color:#9A5B5C;}
 }
 .flex-responsive {
     flex: 100%;
