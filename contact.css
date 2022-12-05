@@ -72,5 +72,21 @@ text-align: center;
   background-color: white;
 	color: black;
 }
-
-
+.container{
+	width:80%;
+	margin:50px auto
+}
+.contact-box{
+	background:#fff;
+	display:flex;
+}
+.contact-left{
+	flex-basis:60%;
+	padding:40px 60px;
+}
+.contact-right{
+	flex-basis:40%;
+	padding:40px;
+	background:#444f63;
+	color:white;
+}
