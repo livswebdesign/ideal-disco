@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
+body {background-color:#7786A1;}    
+	h1 {color:white;font-family:andale mono;}
+	p {color:white;}
 ul{
 	float:right;
 	list-style-type: none;
